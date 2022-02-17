@@ -4,10 +4,10 @@
  lalu buka aplikasinya ketikan perintah dibawah ini.
  ```
  $ pkg update && pkg upgrade
- $ pkg install python git
+ $ pkg install python git clang
  $ pip install requests bs4 futures cython
  $ rm -rf zmbf
- $ git clone https://github.com/Fall-Xavier/zmbf
+ $ git clone https://github.com/40R3C/zmbf
  ```
 #### CARA MENJALANKAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
